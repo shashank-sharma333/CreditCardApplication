@@ -1,0 +1,24 @@
+{
+	"cards": [
+		{
+			"cardNumber": 5410000000000000,
+			"expirationDate": "3/20/2030",
+			"cardHolderName": "Alice"
+		},
+		{
+			"cardNumber": 4120000000000,
+			"expirationDate": "4/20/2030",
+			"cardHolderName": "Bob"
+		},
+		{
+			"cardNumber": 341000000000000,
+			"expirationDate": "5/20/2030",
+			"cardHolderName": "Eve"
+		},
+		{
+			"cardNumber": 6010000000000000,
+			"expirationDate": "6/20/2030",
+			"cardHolderName": "Richard"
+		}
+	]
+}
